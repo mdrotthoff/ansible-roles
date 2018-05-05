@@ -4,12 +4,6 @@
 [submodule "oracledb-ansible"]
 	path = oracledb-ansible
 	url = https://github.com/cvezalis/oracledb-ansible.git
-[submodule "manala-ansible-roles"]
-	path = manala-ansible-roles
-	url = https://github.com/manala/ansible-roles.git
-[submodule "mrlesmith-ansible"]
-	path = mrlesmith-ansible
-	url = https://github.com/mrlesmithjr/Ansible.git
 [submodule "openshift-ansible"]
 	path = openshift-ansible
 	url = https://github.com/openshift/openshift-ansible.git
@@ -79,3 +73,9 @@
 [submodule "kairen.kube-ansible"]
 	path = kairen.kube-ansible
 	url = https://github.com/kairen/kube-ansible.git
+[submodule "manala.ansible-roles"]
+	path = manala.ansible-roles
+	url = https://github.com/manala/ansible-roles.git
+[submodule "mrlesmithjr.ansible"]
+	path = mrlesmithjr.ansible
+	url = https://github.com/mrlesmithjr/Ansible.git
