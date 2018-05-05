@@ -76,3 +76,6 @@
 [submodule "openshift-ansible-contrib"]
 	path = openshift-ansible-contrib
 	url = https://github.com/openshift/openshift-ansible-contrib.git
+[submodule "openstack.ansible-hardening"]
+	path = openstack.ansible-hardening
+	url = https://github.com/openstack/ansible-hardening
