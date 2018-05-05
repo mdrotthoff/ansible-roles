@@ -10,3 +10,6 @@
 [submodule "ansible-flyway"]
 	path = ansible-flyway
 	url = git@github.com:amarao/ansible-flyway.git
+[submodule "ansible-keepalived"]
+	path = ansible-keepalived
+	url = git@github.com:evrardjp/ansible-keepalived.git
