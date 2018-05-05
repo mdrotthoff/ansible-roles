@@ -58,3 +58,6 @@
 [submodule "ginsys-ansible-plugins"]
 	path = ginsys-ansible-plugins
 	url = https://github.com/ginsys/ansible-plugins.git
+[submodule "ansible-libvirt"]
+	path = ansible-libvirt
+	url = http://github.com/hicknhack-software/ansible-libvirt.git
