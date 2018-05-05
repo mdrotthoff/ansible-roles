@@ -1,6 +1,3 @@
-[submodule "ansible-kvm"]
-	path = ansible-kvm
-	url = git@github.com:mrlesmithjr/ansible-kvm.git
 [submodule "ansible-OpenWRT"]
 	path = ansible-OpenWRT
 	url = git@github.com:lefant/ansible-OpenWRT.git
@@ -40,9 +37,6 @@
 [submodule "ginsys-ansible-plugins"]
 	path = ginsys-ansible-plugins
 	url = https://github.com/ginsys/ansible-plugins.git
-[submodule "ansible-libvirt"]
-	path = ansible-libvirt
-	url = http://github.com/hicknhack-software/ansible-libvirt.git
 [submodule "kube-ansible"]
 	path = kube-ansible
 	url = https://github.com/kairen/kube-ansible.git
@@ -79,3 +73,9 @@
 [submodule "evrardjp.ansible-keepalived"]
 	path = evrardjp.ansible-keepalived
 	url = https://github.com/evrardjp/ansible-keepalived.git
+[submodule "mrlesmithjr.ansible-kvm"]
+	path = mrlesmithjr.ansible-kvm
+	url = https://github.com/mrlesmithjr/ansible-kvm.git
+[submodule "hichnhack-software.ansible-libvirt"]
+	path = hichnhack-software.ansible-libvirt
+	url = https://github.com/hicknhack-software/ansible-libvirt.git
