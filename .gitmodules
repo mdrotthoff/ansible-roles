@@ -55,3 +55,6 @@
 [submodule "adfinis-sygroup-foreman"]
 	path = adfinis-sygroup-foreman
 	url = https://github.com/adfinis-sygroup/foreman-ansible.git
+[submodule "ginsys-ansible-plugins"]
+	path = ginsys-ansible-plugins
+	url = https://github.com/ginsys/ansible-plugins.git
