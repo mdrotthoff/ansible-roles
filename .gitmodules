@@ -67,3 +67,6 @@
 [submodule "manala-ansible-roles"]
 	path = manala-ansible-roles
 	url = https://github.com/manala/ansible-roles.git
+[submodule "mrlesmith-ansible"]
+	path = mrlesmith-ansible
+	url = https://github.com/mrlesmithjr/Ansible.git
