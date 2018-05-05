@@ -1,9 +1,6 @@
 [submodule "oravirt-oracle"]
 	path = oravirt-oracle
 	url = git@github.com:oravirt/ansible-oracle.git
-[submodule "ansible-role-bind"]
-	path = ansible-role-bind
-	url = https://github.com/bertvv/ansible-role-bind.git
 [submodule "ansible-role-redmine"]
 	path = ansible-role-redmine
 	url = https://github.com/bngsudheer/ansible-role-redmine.git
@@ -79,3 +76,6 @@
 [submodule "yosshy.ansible-pacemaker"]
 	path = yosshy.ansible-pacemaker
 	url = https://github.com/yosshy/ansible-pacemaker.git
+[submodule "bertvv.ansible-role-bind"]
+	path = bertvv.ansible-role-bind
+	url = https://github.com/bertvv/ansible-role-bind.git
