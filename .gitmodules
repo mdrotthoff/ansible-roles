@@ -79,3 +79,6 @@
 [submodule "oravirt.ansible-oracle"]
 	path = oravirt.ansible-oracle
 	url = https://github.com/oravirt/ansible-oracle.git
+[submodule "sadsfae.ansible-nagios"]
+	path = sadsfae.ansible-nagios
+	url = https://github.com/sadsfae/ansible-nagios.git
