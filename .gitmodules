@@ -4,9 +4,6 @@
 [submodule "oracledb-ansible"]
 	path = oracledb-ansible
 	url = https://github.com/cvezalis/oracledb-ansible.git
-[submodule "foreman_ansible"]
-	path = foreman_ansible
-	url = https://github.com/theforeman/foreman_ansible.git
 [submodule "foreman_ansible_inventory"]
 	path = foreman_ansible_inventory
 	url = https://github.com/theforeman/foreman_ansible_inventory.git
@@ -79,3 +76,6 @@
 [submodule "debops.ansible-bootstrap"]
 	path = debops.ansible-bootstrap
 	url = https://github.com/debops/ansible-bootstrap.git
+[submodule "theforeman.foreman_ansible"]
+	path = theforeman.foreman_ansible
+	url = https://github.com/theforeman/foreman_ansible.git
