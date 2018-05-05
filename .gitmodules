@@ -22,3 +22,6 @@
 [submodule "oravirt-oracle"]
 	path = oravirt-oracle
 	url = git@github.com:oravirt/ansible-oracle.git
+[submodule "ansible-oracle-modules"]
+	path = ansible-oracle-modules
+	url = git@github.com:oravirt/ansible-oracle-modules.git
