@@ -40,3 +40,6 @@
 [submodule "oracledb-ansible"]
 	path = oracledb-ansible
 	url = https://github.com/cvezalis/oracledb-ansible.git
+[submodule "debops-ansible-bootstrap"]
+	path = debops-ansible-bootstrap
+	url = https://github.com/debops/ansible-bootstrap.git
