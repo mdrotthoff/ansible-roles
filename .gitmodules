@@ -52,9 +52,6 @@
 [submodule "foreman-ansible-modules"]
 	path = foreman-ansible-modules
 	url = https://github.com/theforeman/foreman-ansible-modules.git
-[submodule "adfinis-sygroup-foreman"]
-	path = adfinis-sygroup-foreman
-	url = https://github.com/adfinis-sygroup/foreman-ansible.git
 [submodule "ginsys-ansible-plugins"]
 	path = ginsys-ansible-plugins
 	url = https://github.com/ginsys/ansible-plugins.git
@@ -79,3 +76,6 @@
 [submodule "openstack.ansible-hardening"]
 	path = openstack.ansible-hardening
 	url = https://github.com/openstack/ansible-hardening
+[submodule "adfinis-sygroup.ansible-foreman"]
+	path = adfinis-sygroup.ansible-foreman
+	url = https://github.com/adfinis-sygroup/foreman-ansible.git
