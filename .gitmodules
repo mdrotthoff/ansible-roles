@@ -13,3 +13,6 @@
 [submodule "ansible-keepalived"]
 	path = ansible-keepalived
 	url = git@github.com:evrardjp/ansible-keepalived.git
+[submodule "ansible-kvm"]
+	path = ansible-kvm
+	url = git@github.com:mrlesmithjr/ansible-kvm.git
