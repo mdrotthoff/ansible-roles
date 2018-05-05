@@ -43,3 +43,6 @@
 [submodule "debops-ansible-bootstrap"]
 	path = debops-ansible-bootstrap
 	url = https://github.com/debops/ansible-bootstrap.git
+[submodule "foreman_ansible"]
+	path = foreman_ansible
+	url = https://github.com/theforeman/foreman_ansible.git
