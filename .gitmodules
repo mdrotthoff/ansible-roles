@@ -1,6 +1,3 @@
-[submodule "ansible-coreos-bootstrap"]
-	path = ansible-coreos-bootstrap
-	url = git@github.com:defunctzombie/ansible-coreos-bootstrap.git
 [submodule "ansible-dumpall"]
 	path = ansible-dumpall
 	url = git@github.com:f500/ansible-dumpall
@@ -79,3 +76,6 @@
 [submodule "adfinis-sygroup.ansible-foreman"]
 	path = adfinis-sygroup.ansible-foreman
 	url = https://github.com/adfinis-sygroup/foreman-ansible.git
+[submodule "defunctzombie.ansible-coreos-bootstrap"]
+	path = defunctzombie.ansible-coreos-bootstrap
+	url = https://github.com/defunctzombie/ansible-coreos-bootstrap.git
