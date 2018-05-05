@@ -7,3 +7,6 @@
 [submodule "ansible-elasticsearch"]
 	path = ansible-elasticsearch
 	url = git@github.com:elastic/ansible-elasticsearch.git
+[submodule "ansible-flyway"]
+	path = ansible-flyway
+	url = git@github.com:amarao/ansible-flyway.git
