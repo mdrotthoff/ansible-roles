@@ -25,3 +25,6 @@
 [submodule "ansible-oracle-modules"]
 	path = ansible-oracle-modules
 	url = git@github.com:oravirt/ansible-oracle-modules.git
+[submodule "ansible-pacemaker"]
+	path = ansible-pacemaker
+	url = git@github.com:yosshy/ansible-pacemaker.git
