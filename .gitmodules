@@ -28,3 +28,6 @@
 [submodule "ansible-pacemaker"]
 	path = ansible-pacemaker
 	url = git@github.com:yosshy/ansible-pacemaker.git
+[submodule "ansible-role-bind"]
+	path = ansible-role-bind
+	url = https://github.com/bertvv/ansible-role-bind.git
