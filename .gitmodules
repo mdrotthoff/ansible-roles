@@ -1,6 +1,3 @@
-[submodule "oravirt-oracle"]
-	path = oravirt-oracle
-	url = git@github.com:oravirt/ansible-oracle.git
 [submodule "openstack.ansible-hardening"]
 	path = openstack.ansible-hardening
 	url = https://github.com/openstack/ansible-hardening
@@ -79,3 +76,6 @@
 [submodule "cvezalis.oracledb-ansible"]
 	path = cvezalis.oracledb-ansible
 	url = https://github.com/cvezalis/oracledb-ansible.git
+[submodule "oravirt.ansible-oracle"]
+	path = oravirt.ansible-oracle
+	url = https://github.com/oravirt/ansible-oracle.git
