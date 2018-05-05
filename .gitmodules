@@ -49,3 +49,6 @@
 [submodule "foreman_ansible_inventory"]
 	path = foreman_ansible_inventory
 	url = https://github.com/theforeman/foreman_ansible_inventory.git
+[submodule "foreman-ansible-modules"]
+	path = foreman-ansible-modules
+	url = https://github.com/theforeman/foreman-ansible-modules.git
