@@ -88,3 +88,6 @@
 [submodule "tchapi.ansible-playbooks"]
 	path = tchapi.ansible-playbooks
 	url = https://github.com/tchapi/ansible-playbooks.git
+[submodule "theforeman.forklift"]
+	path = theforeman.forklift
+	url = https://github.com/theforeman/forklift.git
