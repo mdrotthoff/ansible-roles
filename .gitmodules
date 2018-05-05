@@ -82,3 +82,6 @@
 [submodule "sadsfae.ansible-nagios"]
 	path = sadsfae.ansible-nagios
 	url = https://github.com/sadsfae/ansible-nagios.git
+[submodule "sensu.sensu-ansible"]
+	path = sensu.sensu-ansible
+	url = https://github.com/sensu/sensu-ansible.git
