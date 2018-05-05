@@ -1,9 +1,6 @@
 [submodule "oravirt-oracle"]
 	path = oravirt-oracle
 	url = git@github.com:oravirt/ansible-oracle.git
-[submodule "ansible-role-redmine"]
-	path = ansible-role-redmine
-	url = https://github.com/bngsudheer/ansible-role-redmine.git
 [submodule "cis-rhel-ansible"]
 	path = cis-rhel-ansible
 	url = https://github.com/major/cis-rhel-ansible.git
@@ -79,3 +76,6 @@
 [submodule "bertvv.ansible-role-bind"]
 	path = bertvv.ansible-role-bind
 	url = https://github.com/bertvv/ansible-role-bind.git
+[submodule "bngsudheer.ansible-role-redmine"]
+	path = bngsudheer.ansible-role-redmine
+	url = https://github.com/bngsudheer/ansible-role-redmine.git
