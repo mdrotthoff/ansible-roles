@@ -52,3 +52,6 @@
 [submodule "foreman-ansible-modules"]
 	path = foreman-ansible-modules
 	url = https://github.com/theforeman/foreman-ansible-modules.git
+[submodule "adfinis-sygroup-foreman"]
+	path = adfinis-sygroup-foreman
+	url = https://github.com/adfinis-sygroup/foreman-ansible.git
