@@ -16,3 +16,6 @@
 [submodule "ansible-kvm"]
 	path = ansible-kvm
 	url = git@github.com:mrlesmithjr/ansible-kvm.git
+[submodule "ansible-OpenWRT"]
+	path = ansible-OpenWRT
+	url = git@github.com:lefant/ansible-OpenWRT.git
