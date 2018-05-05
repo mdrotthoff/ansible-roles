@@ -85,3 +85,6 @@
 [submodule "sensu.sensu-ansible"]
 	path = sensu.sensu-ansible
 	url = https://github.com/sensu/sensu-ansible.git
+[submodule "tchapi.ansible-playbooks"]
+	path = tchapi.ansible-playbooks
+	url = https://github.com/tchapi/ansible-playbooks.git
