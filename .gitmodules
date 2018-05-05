@@ -34,3 +34,6 @@
 [submodule "ansible-role-redmine"]
 	path = ansible-role-redmine
 	url = https://github.com/bngsudheer/ansible-role-redmine.git
+[submodule "cis-rhel-ansible"]
+	path = cis-rhel-ansible
+	url = https://github.com/major/cis-rhel-ansible.git
