@@ -4,9 +4,6 @@
 [submodule "oracledb-ansible"]
 	path = oracledb-ansible
 	url = https://github.com/cvezalis/oracledb-ansible.git
-[submodule "openshift-ansible-contrib"]
-	path = openshift-ansible-contrib
-	url = https://github.com/openshift/openshift-ansible-contrib.git
 [submodule "openstack.ansible-hardening"]
 	path = openstack.ansible-hardening
 	url = https://github.com/openstack/ansible-hardening
@@ -79,3 +76,6 @@
 [submodule "openshift.openshift-ansible"]
 	path = openshift.openshift-ansible
 	url = https://github.com/openshift/openshift-ansible.git
+[submodule "openshift.openshift-ansible-contrib"]
+	path = openshift.openshift-ansible-contrib
+	url = https://github.com/openshift/openshift-ansible-contrib.git
