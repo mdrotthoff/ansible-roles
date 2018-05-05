@@ -1,0 +1,9 @@
+[submodule "ansible-coreos-bootstrap"]
+	path = ansible-coreos-bootstrap
+	url = git@github.com:defunctzombie/ansible-coreos-bootstrap.git
+[submodule "ansible-dumpall"]
+	path = ansible-dumpall
+	url = git@github.com:f500/ansible-dumpall
+[submodule "ansible-elasticsearch"]
+	path = ansible-elasticsearch
+	url = git@github.com:elastic/ansible-elasticsearch.git
