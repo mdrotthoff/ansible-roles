@@ -37,3 +37,6 @@
 [submodule "cis-rhel-ansible"]
 	path = cis-rhel-ansible
 	url = https://github.com/major/cis-rhel-ansible.git
+[submodule "oracledb-ansible"]
+	path = oracledb-ansible
+	url = https://github.com/cvezalis/oracledb-ansible.git
