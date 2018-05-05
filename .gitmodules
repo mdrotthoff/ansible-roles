@@ -1,6 +1,3 @@
-[submodule "ansible-OpenWRT"]
-	path = ansible-OpenWRT
-	url = git@github.com:lefant/ansible-OpenWRT.git
 [submodule "oravirt-oracle"]
 	path = oravirt-oracle
 	url = git@github.com:oravirt/ansible-oracle.git
@@ -79,3 +76,6 @@
 [submodule "hichnhack-software.ansible-libvirt"]
 	path = hichnhack-software.ansible-libvirt
 	url = https://github.com/hicknhack-software/ansible-libvirt.git
+[submodule "lefant.ansible-OpenWRT"]
+	path = lefant.ansible-OpenWRT
+	url = https://github.com/lefant/ansible-OpenWRT.git
