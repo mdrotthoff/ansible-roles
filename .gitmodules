@@ -91,3 +91,12 @@
 [submodule "theforeman.forklift"]
 	path = theforeman.forklift
 	url = https://github.com/theforeman/forklift.git
+[submodule "mdrotthoff.ansible-node"]
+	path = mdrotthoff.ansible-node
+	url = git@github.com:mdrotthoff/mdrotthoff.ansible-node
+[submodule "mdrotthoff.ansible-server"]
+	path = mdrotthoff.ansible-server
+	url = git@github.com:mdrotthoff/mdrotthoff.ansible-server
+[submodule "mdrotthoff.basic-config"]
+	path = mdrotthoff.basic-config
+	url = git@github.com:mdrotthoff/mdrotthoff.basic-config
