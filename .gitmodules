@@ -142,3 +142,9 @@
 [submodule "mrlesmithjr.ansible-firewalld"]
 	path = mrlesmithjr.ansible-firewalld
 	url = https://github.com/mrlesmithjr/ansible-firewalld.git
+[submodule "mrlesmithjr.ansible-zabbix"]
+	path = mrlesmithjr.ansible-zabbix
+	url = https://github.com/mrlesmithjr/ansible-zabbix.git
+[submodule "mrlesmithjr.ansible-zabbix-agent"]
+	path = mrlesmithjr.ansible-zabbix-agent
+	url = https://github.com/mrlesmithjr/ansible-zabbix-agent.git
