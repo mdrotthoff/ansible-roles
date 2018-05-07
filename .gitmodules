@@ -184,3 +184,6 @@
 [submodule "mrlesmithjr.ansible-bashrc"]
 	path = mrlesmithjr.ansible-bashrc
 	url = https://github.com/mrlesmithjr/ansible-bashrc.git
+[submodule "openstack.openstack-ansible"]
+	path = openstack.openstack-ansible
+	url = https://github.com/openstack/openstack-ansible.git
