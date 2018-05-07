@@ -151,3 +151,6 @@
 [submodule "mrlesmithjr.ansible-chrony"]
 	path = mrlesmithjr.ansible-chrony
 	url = https://github.com/mrlesmithjr/ansible-chrony.git
+[submodule "mrlesmithjr.ansible-snmpd"]
+	path = mrlesmithjr.ansible-snmpd
+	url = https://github.com/mrlesmithjr/ansible-snmpd.git
