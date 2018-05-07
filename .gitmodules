@@ -148,3 +148,6 @@
 [submodule "mrlesmithjr.ansible-zabbix-agent"]
 	path = mrlesmithjr.ansible-zabbix-agent
 	url = https://github.com/mrlesmithjr/ansible-zabbix-agent.git
+[submodule "mrlesmithjr.ansible-chrony"]
+	path = mrlesmithjr.ansible-chrony
+	url = https://github.com/mrlesmithjr/ansible-chrony.git
