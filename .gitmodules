@@ -163,3 +163,6 @@
 [submodule "mrlesmithjr.ansible-prometheus-node-exporter"]
 	path = mrlesmithjr.ansible-prometheus-node-exporter
 	url = https://github.com/mrlesmithjr/ansible-prometheus-node-exporter.git
+[submodule "mrlesmithjr.ansible-sensu"]
+	path = mrlesmithjr.ansible-sensu
+	url = https://github.com/mrlesmithjr/ansible-sensu.git
