@@ -175,3 +175,6 @@
 [submodule "mrlesmithjr.ansible-snorby"]
 	path = mrlesmithjr.ansible-snorby
 	url = https://github.com/mrlesmithjr/ansible-snorby.git
+[submodule "mrlesmithjr.ansible-manage-ssh-keys"]
+	path = mrlesmithjr.ansible-manage-ssh-keys
+	url = https://github.com/mrlesmithjr/ansible-manage-ssh-keys.git
