@@ -100,3 +100,6 @@
 [submodule "mrlesmithjr.ansible-base"]
 	path = mrlesmithjr.ansible-base
 	url = https://github.com/mrlesmithjr/ansible-base.git
+[submodule "mrlesmithjr.ansible-bootstrap"]
+	path = mrlesmithjr.ansible-bootstrap
+	url = https://github.com/mrlesmithjr/ansible-bootstrap.git
