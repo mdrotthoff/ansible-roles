@@ -169,3 +169,9 @@
 [submodule "mrlesmithjr.ansible-opennms"]
 	path = mrlesmithjr.ansible-opennms
 	url = https://github.com/mrlesmithjr/ansible-opennms.git
+[submodule "mrlesmithjr.ansible-suricata"]
+	path = mrlesmithjr.ansible-suricata
+	url = https://github.com/mrlesmithjr/ansible-suricata.git
+[submodule "mrlesmithjr.ansible-snorby"]
+	path = mrlesmithjr.ansible-snorby
+	url = https://github.com/mrlesmithjr/ansible-snorby.git
