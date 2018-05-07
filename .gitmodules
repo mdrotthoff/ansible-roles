@@ -130,3 +130,6 @@
 [submodule "mrlesmithjr.ansible-pacemaker"]
 	path = mrlesmithjr.ansible-pacemaker
 	url = https://github.com/mrlesmithjr/ansible-pacemaker.git
+[submodule "mrlesmithjr.ansible-drbd"]
+	path = mrlesmithjr.ansible-drbd
+	url = https://github.com/mrlesmithjr/ansible-drbd.git
