@@ -94,3 +94,6 @@
 [submodule "mdrotthoff.roles-to-evalute"]
 	path = mdrotthoff.roles-to-evalute
 	url = git@github.com:mdrotthoff/roles-to-evaluate.git
+[submodule "mrlesmithjr.ansible-netdata"]
+	path = mrlesmithjr.ansible-netdata
+	url = https://github.com/mrlesmithjr/ansible-netdata.git
