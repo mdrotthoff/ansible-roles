@@ -181,3 +181,6 @@
 [submodule "mrlesmithjr.ansible-collectd"]
 	path = mrlesmithjr.ansible-collectd
 	url = https://github.com/mrlesmithjr/ansible-collectd.git
+[submodule "mrlesmithjr.ansible-bashrc"]
+	path = mrlesmithjr.ansible-bashrc
+	url = https://github.com/mrlesmithjr/ansible-bashrc.git
