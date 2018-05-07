@@ -118,3 +118,6 @@
 [submodule "mrlesmithjr.ansible-observium"]
 	path = mrlesmithjr.ansible-observium
 	url = https://github.com/mrlesmithjr/ansible-observium.git
+[submodule "mrlesmithjr.ansible-awx"]
+	path = mrlesmithjr.ansible-awx
+	url = https://github.com/mrlesmithjr/ansible-awx.git
