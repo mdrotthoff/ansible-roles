@@ -106,3 +106,6 @@
 [submodule "mrlesmithjr.ansible-glusterfs"]
 	path = mrlesmithjr.ansible-glusterfs
 	url = https://github.com/mrlesmithjr/ansible-glusterfs.git
+[submodule "mrlesmithjr.ansible-postfix"]
+	path = mrlesmithjr.ansible-postfix
+	url = https://github.com/mrlesmithjr/ansible-postfix.git
