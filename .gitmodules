@@ -109,3 +109,6 @@
 [submodule "mrlesmithjr.ansible-postfix"]
 	path = mrlesmithjr.ansible-postfix
 	url = https://github.com/mrlesmithjr/ansible-postfix.git
+[submodule "mrlesmithjr.ansible-rsyslog"]
+	path = mrlesmithjr.ansible-rsyslog
+	url = https://github.com/mrlesmithjr/ansible-rsyslog.git
