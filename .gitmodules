@@ -115,3 +115,6 @@
 [submodule "mrlesmithjr.ansible-netplan"]
 	path = mrlesmithjr.ansible-netplan
 	url = https://github.com/mrlesmithjr/ansible-netplan.git
+[submodule "mrlesmithjr.ansible-observium"]
+	path = mrlesmithjr.ansible-observium
+	url = https://github.com/mrlesmithjr/ansible-observium.git
