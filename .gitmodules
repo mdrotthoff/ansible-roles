@@ -112,3 +112,6 @@
 [submodule "mrlesmithjr.ansible-rsyslog"]
 	path = mrlesmithjr.ansible-rsyslog
 	url = https://github.com/mrlesmithjr/ansible-rsyslog.git
+[submodule "mrlesmithjr.ansible-netplan"]
+	path = mrlesmithjr.ansible-netplan
+	url = https://github.com/mrlesmithjr/ansible-netplan.git
