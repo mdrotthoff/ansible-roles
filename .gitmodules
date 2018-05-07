@@ -136,3 +136,6 @@
 [submodule "mrlesmithjr.ansible-grafana"]
 	path = mrlesmithjr.ansible-grafana
 	url = https://github.com/mrlesmithjr/ansible-grafana.git
+[submodule "mrlesmithjr.ansible-openvswitch"]
+	path = mrlesmithjr.ansible-openvswitch
+	url = https://github.com/mrlesmithjr/ansible-openvswitch.git
