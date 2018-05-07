@@ -166,3 +166,6 @@
 [submodule "mrlesmithjr.ansible-sensu"]
 	path = mrlesmithjr.ansible-sensu
 	url = https://github.com/mrlesmithjr/ansible-sensu.git
+[submodule "mrlesmithjr.ansible-opennms"]
+	path = mrlesmithjr.ansible-opennms
+	url = https://github.com/mrlesmithjr/ansible-opennms.git
