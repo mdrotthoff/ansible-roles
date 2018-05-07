@@ -139,3 +139,6 @@
 [submodule "mrlesmithjr.ansible-openvswitch"]
 	path = mrlesmithjr.ansible-openvswitch
 	url = https://github.com/mrlesmithjr/ansible-openvswitch.git
+[submodule "mrlesmithjr.ansible-firewalld"]
+	path = mrlesmithjr.ansible-firewalld
+	url = https://github.com/mrlesmithjr/ansible-firewalld.git
