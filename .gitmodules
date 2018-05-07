@@ -97,3 +97,6 @@
 [submodule "mrlesmithjr.ansible-netdata"]
 	path = mrlesmithjr.ansible-netdata
 	url = https://github.com/mrlesmithjr/ansible-netdata.git
+[submodule "mrlesmithjr.ansible-base"]
+	path = mrlesmithjr.ansible-base
+	url = https://github.com/mrlesmithjr/ansible-base.git
