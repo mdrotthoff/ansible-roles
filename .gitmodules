@@ -124,3 +124,6 @@
 [submodule "mrlesmithjr.ansible-mdadm"]
 	path = mrlesmithjr.ansible-mdadm
 	url = https://github.com/mrlesmithjr/ansible-mdadm.git
+[submodule "mrlesmithjr.ansible-snort"]
+	path = mrlesmithjr.ansible-snort
+	url = https://github.com/mrlesmithjr/ansible-snort.git
