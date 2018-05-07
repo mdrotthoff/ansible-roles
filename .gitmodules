@@ -103,3 +103,6 @@
 [submodule "mrlesmithjr.ansible-bootstrap"]
 	path = mrlesmithjr.ansible-bootstrap
 	url = https://github.com/mrlesmithjr/ansible-bootstrap.git
+[submodule "mrlesmithjr.ansible-glusterfs"]
+	path = mrlesmithjr.ansible-glusterfs
+	url = https://github.com/mrlesmithjr/ansible-glusterfs.git
