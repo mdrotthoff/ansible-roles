@@ -133,3 +133,6 @@
 [submodule "mrlesmithjr.ansible-drbd"]
 	path = mrlesmithjr.ansible-drbd
 	url = https://github.com/mrlesmithjr/ansible-drbd.git
+[submodule "mrlesmithjr.ansible-grafana"]
+	path = mrlesmithjr.ansible-grafana
+	url = https://github.com/mrlesmithjr/ansible-grafana.git
