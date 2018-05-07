@@ -178,3 +178,6 @@
 [submodule "mrlesmithjr.ansible-manage-ssh-keys"]
 	path = mrlesmithjr.ansible-manage-ssh-keys
 	url = https://github.com/mrlesmithjr/ansible-manage-ssh-keys.git
+[submodule "mrlesmithjr.ansible-collectd"]
+	path = mrlesmithjr.ansible-collectd
+	url = https://github.com/mrlesmithjr/ansible-collectd.git
