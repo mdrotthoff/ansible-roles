@@ -127,3 +127,6 @@
 [submodule "mrlesmithjr.ansible-snort"]
 	path = mrlesmithjr.ansible-snort
 	url = https://github.com/mrlesmithjr/ansible-snort.git
+[submodule "mrlesmithjr.ansible-pacemaker"]
+	path = mrlesmithjr.ansible-pacemaker
+	url = https://github.com/mrlesmithjr/ansible-pacemaker.git
