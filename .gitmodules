@@ -193,3 +193,9 @@
 [submodule "nickjj.ansible-docker"]
 	path = nickjj.ansible-docker
 	url = https://github.com/nickjj/ansible-docker.git
+[submodule "nickjj.ansible-letsencrypt"]
+	path = nickjj.ansible-letsencrypt
+	url = https://github.com/nickjj/ansible-letsencrypt.git
+[submodule "nickjj.ansible-user"]
+	path = nickjj.ansible-user
+	url = https://github.com/nickjj/ansible-user.git
