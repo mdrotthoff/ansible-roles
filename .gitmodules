@@ -187,3 +187,9 @@
 [submodule "openstack.openstack-ansible"]
 	path = openstack.openstack-ansible
 	url = https://github.com/openstack/openstack-ansible.git
+[submodule "arillso.ansible.sudoers"]
+	path = arillso.ansible.sudoers
+	url = https://github.com/arillso/ansible.sudoers.git
+[submodule "nickjj.ansible-docker"]
+	path = nickjj.ansible-docker
+	url = https://github.com/nickjj/ansible-docker.git
