@@ -199,3 +199,9 @@
 [submodule "nickjj.ansible-user"]
 	path = nickjj.ansible-user
 	url = https://github.com/nickjj/ansible-user.git
+[submodule "Nosmoht.ansible-module-forman"]
+	path = Nosmoht.ansible-module-forman
+	url = https://github.com/Nosmoht/ansible-module-foreman.git
+[submodule "ansible.ansible-lockdown"]
+	path = ansible.ansible-lockdown
+	url = https://github.com/ansible/ansible-lockdown.git
